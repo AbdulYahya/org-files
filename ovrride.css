@@ -1,0 +1,18 @@
+p {
+    display: inline;
+}
+
+pre.code__blk {
+    display: inline;
+    margin: 0;
+    padding: .4rem;
+    width: fit-content;
+    max-height: 600px;
+    background-color: #eff0f1;
+    border-radius: 3px;
+}
+
+pre.src {
+    background-color: #eff0f1;
+    width: fit-content;
+}

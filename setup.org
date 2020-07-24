@@ -1,0 +1,10 @@
+* Mac Setup
+
+
+** Terminal Setup
+
+*** iTerm2
+
+**** MacOS Keybindings
+
+https://coderwall.com/p/ds2dha/word-line-deletion-and-navigation-shortcuts-in-iterm2
